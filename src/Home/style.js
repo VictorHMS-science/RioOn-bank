@@ -15,7 +15,7 @@ const styles = StyleSheet.create({
   },
   subtitle: {
     fontSize: 18,
-    color: '#FFFFFF',
+    color: '#FFFFFF', // Branco
   },
 });
 
